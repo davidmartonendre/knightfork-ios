@@ -68,6 +68,8 @@ Contributions are welcome! The app is in active development and there's plenty t
 
 Please open an issue first to discuss significant changes.
 
+**Note:** Do not commit changes to `DEVELOPMENT_TEAM` in `project.pbxproj` — Xcode sets this to your personal Apple Developer Team ID. Keep it as a local-only change.
+
 ## License
 
-[GPL-3.0](LICENSE)
+[GPL-3.0](LICENSE) — see [NOTICE](NOTICE) for third-party attributions.

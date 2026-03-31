@@ -1,0 +1,50 @@
+KnightFork
+Copyright 2026 David Marton
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+---
+
+Third-Party Licenses
+====================
+
+Chess Piece SVGs
+----------------
+Based on chess pieces by Uray M. Janos, derived from Cburnett's SVGs
+on Wikimedia Commons (https://commons.wikimedia.org/wiki/Category:SVG_chess_pieces).
+Licensed under Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0).
+https://creativecommons.org/licenses/by-sa/3.0/
+
+chesskit-swift
+--------------
+Copyright 2023 ChessKit
+Licensed under the MIT License.
+https://github.com/chesskit-app/chesskit-swift
+
+chesskit-engine
+---------------
+Copyright 2023 ChessKit
+Licensed under the MIT License.
+https://github.com/chesskit-app/chesskit-engine
+
+Stockfish (bundled via chesskit-engine)
+---------------------------------------
+Stockfish is free software licensed under the GNU General Public License v3.
+https://stockfishchess.org/
+https://github.com/official-stockfish/Stockfish
+
+Lc0 (bundled via chesskit-engine)
+---------------------------------
+Lc0 is free software licensed under the GNU General Public License v3.
+https://lczero.org/
+https://github.com/LeelaChessZero/lc0
+
+Lichess Puzzle Data
+-------------------
+Puzzle data fetched from the Lichess API.
+Lichess puzzles are licensed under Creative Commons CC0 1.0 (Public Domain).
+https://lichess.org/api
+https://database.lichess.org/#puzzles
